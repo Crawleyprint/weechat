@@ -1,2 +1,3 @@
 *.log
 logs/
+irc.conf
